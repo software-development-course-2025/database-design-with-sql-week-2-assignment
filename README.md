@@ -47,4 +47,4 @@ This repository is intended for educational use.
 | Name    | **Augusto Mate** |
 |:--------|:-----------|
 | Email  | mate.augusto.mz@gmail.com |
-| GitHub  | [github.com/Augusto047](https://github.com/Augusto047) |
+| GitHub  | [github.com/augusto-mate](https://github.com/augusto-mate) |
